@@ -1,5 +1,5 @@
 # Half-QWERTY
-A one-handed typing script using AutoHotkey to mirror the right half of the keyboard onto the left.
+A just for fun (but functional) one-handed typing script using AutoHotkey to mirror the right half of the keyboard onto the left.
 
 Please continue reading or see the following link for futher documentation:
 http://blog.lennyevans.net/2011/10/half-qwerty-mirrored-keyboard.html
