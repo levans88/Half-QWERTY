@@ -13,6 +13,18 @@ It is surprisingly easier to type this way than expected, though a typing tutor 
 One of the keys in the script calls an application named "Everything".  "Everything" is a replacement for windows search that I really like and use.  You may need to remove that line to prevent an error when using the associated button if you don't have the "Everything" tool.
 
 
+Links
+-----
+AutoHotkey Website
+http://ahkscript.org/
+
+SciTE4AutoHotkey (editor)
+http://fincs.ahk4.net/scite4ahk/
+
+AutoHotKey_L on GitHub
+https://github.com/Lexikos/AutoHotkey_L
+
+
 Keys
 ----
 ` (the ~ key)	   |   	Suspend/resume the script
@@ -158,16 +170,3 @@ Shift + Space + c	   |   	<
 Shift + Space + v	   |   	>
 
 Shift + Space + g	   |   	-
-
-
-
-Links
------
-AutoHotkey Website
-http://ahkscript.org/
-
-SciTE4AutoHotkey (editor)
-http://fincs.ahk4.net/scite4ahk/
-
-AutoHotKey_L on GitHub
-https://github.com/Lexikos/AutoHotkey_L
