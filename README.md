@@ -4,7 +4,7 @@ A just for fun (but functional) one-handed typing script using AutoHotkey to mir
 Please continue reading or see the following link for futher documentation:
 http://blog.lennyevans.net/2011/10/half-qwerty-mirrored-keyboard.html
 
-This script mirrors the left half of the keyboard onto the right half of the keyboard when the space bar is held down (instead of just pressed).  It is a one-handed (specifically left-handed) typing script created in AutoHotkey_L, which I understand is now the main branch of AutoHotkey.
+This script mirrors the right half of the keyboard onto the left half of the keyboard when the space bar is held down (instead of just pressed).  It is a one-handed (specifically left-handed) typing script created in AutoHotkey_L, which I understand is now the main branch of AutoHotkey.
 
 WASD arrow keys and WASD mouse control (basic) are also implemented as well as the ability to turn the script on and off.  It's necessary to turn the script off when typing with both hands because there is a small delay on some characters as a consequence of using the space bar as the modifier (mirror) key.
 
