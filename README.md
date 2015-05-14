@@ -170,3 +170,4 @@ Shift + Space + c	   |   	<
 Shift + Space + v	   |   	>
 
 Shift + Space + g	   |   	-
+ 
